@@ -1,0 +1,5 @@
+{
+  "name": "Retro Rogue",
+  "description": "Un dungeon crawler roguelike procedural de 10 niveles con estética retro y sistema de puntuación.",
+  "requestFramePermissions": []
+}
